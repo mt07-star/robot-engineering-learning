@@ -19,3 +19,9 @@ projects and learning notes here.
 
 ## My Goal
 Become a capable robotics engineer.
+## My Git Learning
+
+I am learning Git and GitHub.
+
+My first goal is to manage
+my robotics engineering projects.
